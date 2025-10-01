@@ -41,7 +41,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 Run the Dev Server:
 npm run dev
-Open http://localhost:3000 in your browser
+Open http://localhost:3000/signup in your browser
 
 Database setup - Run this SQL in your supabase SQL Editor to create the jobs table:
 -- Create the jobs table
